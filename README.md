@@ -3,8 +3,8 @@ Dataset Description
 The dataset comprises the following attributes:
 
 Age: The age of the individual.
-Gender: The gender of the individual.
-Education: The highest level of education attained by the individual.
+  Gender: The gender of the individual.
+  Education: The highest level of education attained by the individual.
 Country: The country of residence of the individual.
 Race: The racial background of the individual.
 Years of Experience: The number of years of professional experience.
