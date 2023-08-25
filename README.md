@@ -3,13 +3,12 @@ Dataset Description
 The dataset comprises the following attributes:
 
 Age: The age of the individual.
-  Gender: The gender of the individual.
-  Education: The highest level of education attained by the individual.
+Gender: The gender of the individual.
+Education: The highest level of education attained by the individual.
 Country: The country of residence of the individual.
 Race: The racial background of the individual.
 Years of Experience: The number of years of professional experience.
 Salary: The income of the individual.
-The dataset's comprehensive nature enables researchers to explore patterns and trends in income distribution across different demographic categories. By conducting thorough exploratory data analysis (EDA), we can identify potential disparities or variations in earning potential. Moreover, the integration of years of experience as a variable allows for the investigation of how income varies based on both demographic characteristics and accumulated work experience.
 
 The dataset's comprehensive nature enables researchers to explore patterns and trends in income distribution across different demographic categories. By conducting thorough exploratory data analysis (EDA), we can identify potential disparities or variations in earning potential. Moreover, the integration of years of experience as a variable allows for the investigation of how income varies based on both demographic characteristics and accumulated work experience.
 
